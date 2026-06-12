@@ -11,6 +11,6 @@ html_content = pathlib.Path("index.html").read_text(encoding="utf-8")
 
 st.components.v1.html(
     html_content,
-    height=2000,
+    height=900,
     scrolling=True
 )
