@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="eTMF AI QC Dashboard",
+    page_title="Patient Monitoring Prototype",
     page_icon="⬡",
     layout="wide"
 )
