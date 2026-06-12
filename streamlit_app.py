@@ -35,6 +35,6 @@ html_content = pathlib.Path("index.html").read_text(encoding="utf-8")
 
 html(
     html_content,
-    height=5000,
+    height=1000,
     scrolling=True
 )
